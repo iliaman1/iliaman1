@@ -11,7 +11,14 @@
 [![alt-текст](https://camo.githubusercontent.com/26a74eef5d23c6d35e75264deb87dab05c7139680356b02f6e0b00f1a494d9a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d2532333234393645442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465 "Docker")](https://www.docker.com/)
 [![alt-текст](https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465 "HTML")](https://developer.mozilla.org/ru/docs/Web/HTML)
 [![alt-текст](https://camo.githubusercontent.com/b430f12ce9355be8c36aecb45e5d77311d156b88b35e4a180df1eac8952e1c3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b "JS")](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+
 # My contacts <img src="https://cdn-icons-png.flaticon.com/512/1998/1998087.png" width="48">
+![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=linkedin)
+![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=vk)
+![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=instagram)
+![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=telegram)
+![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=leetcode)
+
 
 # CHILL & RELAX <img src="https://cdn-icons-png.flaticon.com/512/2394/2394825.png" width="48"> 
 [![lofi](https://media2.giphy.com/media/J3PFjRm7LB28w/giphy.gif?cid=790b7611239afd18094819ba7c077ca6f60074bc171b5168&rid=giphy.gif&ct=g )](http://www.youtube.com/watch?v=5qap5aO4i9A&ab_channel=LofiGirl)
