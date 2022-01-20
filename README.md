@@ -14,10 +14,11 @@
 
 # My contacts <img src="https://cdn-icons-png.flaticon.com/512/1998/1998087.png" width="48">
 ![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=linkedin)
-![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=vk)
-![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=instagram)
-![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=telegram)
-![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=leetcode)
+![badge](https://img.shields.io/badge/vk-090909?style=social&logo=vk)
+![badge](https://img.shields.io/badge/instagram-090909?style=social&logo=instagram)
+![badge](https://img.shields.io/badge/telegram-090909?style=social&logo=telegram)
+![badge](https://img.shields.io/badge/leetcode-090909?style=social&logo=leetcode)
+
 
 
 # CHILL & RELAX <img src="https://cdn-icons-png.flaticon.com/512/2394/2394825.png" width="48"> 
