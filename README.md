@@ -1,4 +1,4 @@
-# Hello world <img src="https://cdn-icons.flaticon.com/png/512/2577/premium/2577594.png?token=exp=1642683667~hmac=e3430dfa29cf228148f1ae6f7cb9f989" width="48">
+# Hello world <img src="https://media4.giphy.com/media/U5ec4WU3d8ZIQ/giphy.gif?cid=790b7611a7b8b150db309f71d90478edd63d74673589789e&rid=giphy.gif&ct=g" width="48">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliaman1&show_icons=true&theme=dracula)](https://media3.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=790b7611101554a0210164926928e5efc3499efe90eacaef&rid=giphy.gif&ct=g)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliaman1&show_icons=true&theme=dracula)](https://media3.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=790b7611101554a0210164926928e5efc3499efe90eacaef&rid=giphy.gif&ct=g)
 
