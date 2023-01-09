@@ -1,6 +1,8 @@
 # Hello there <img src="https://media0.giphy.com/media/g83QHvfoVrDxXbKFfW/giphy.gif?cid=790b76111998e684285edd21bd803a031b6a1ced917a645f&rid=giphy.gif&ct=s" width="48"> <img src="https://media2.giphy.com/media/LBRPBfYRlzIz0sHUDl/giphy.gif?cid=790b761182eb945738ae99f0f1e7d5ea1ac811048cc44494&rid=giphy.gif&ct=s" width="48">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliaman1&show_icons=true&theme=dracula)](https://media3.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=790b7611101554a0210164926928e5efc3499efe90eacaef&rid=giphy.gif&ct=g)
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=iliaman&theme=light)](https://leetcode.com/iliaman/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliaman1&show_icons=true&theme=dracula)](https://media3.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=790b7611101554a0210164926928e5efc3499efe90eacaef&rid=giphy.gif&ct=g)
+
 
 # Languages and Tools <img src="https://cdn-icons-png.flaticon.com/512/1055/1055683.png" width="48">
 [![alt-текст](https://camo.githubusercontent.com/01e3cdeea168457e352691bdf62efd0f500d365309914d07c708ea4eb765a437/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333337373641422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465 "Python")](https://www.python.org/)
