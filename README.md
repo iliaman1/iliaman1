@@ -3,6 +3,9 @@
 [![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=iliaman&theme=dark)](https://leetcode.com/iliaman/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliaman1&show_icons=true&theme=dracula)](https://media3.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=790b7611101554a0210164926928e5efc3499efe90eacaef&rid=giphy.gif&ct=g)
 
+
+<!--<img src="https://raw.githubusercontent.com/iliaman1/iliaman1/output/github-contribution-grid-snake.svg" /> -->
+
 # Languages and Tools <img src="https://cdn-icons-png.flaticon.com/512/1055/1055683.png" width="48">
 [![alt-текст](https://camo.githubusercontent.com/01e3cdeea168457e352691bdf62efd0f500d365309914d07c708ea4eb765a437/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333337373641422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465 "Python")](https://www.python.org/)
 [![alt-текст](https://camo.githubusercontent.com/5b0954917b2bba4427bcd394916a0d4835c54a69f3f8e9e6f8b1b475032eb894/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2532302d2532333030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465 "Flask")](https://flask.palletsprojects.com/en/2.0.x/#)
@@ -15,10 +18,10 @@
 
 # My contacts <img src="https://cdn-icons-png.flaticon.com/512/1998/1998087.png" width="48">
 ![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=linkedin)
-![badge](https://img.shields.io/badge/vk-090909?style=social&logo=vk)
-![badge](https://img.shields.io/badge/instagram-090909?style=social&logo=instagram)
-![badge](https://img.shields.io/badge/telegram-090909?style=social&logo=telegram)
-![badge](https://img.shields.io/badge/leetcode-090909?style=social&logo=leetcode)
+[![badge](https://img.shields.io/badge/vk-090909?style=social&logo=vk)](https://vk.com/sexyalni_samec)
+[![badge](https://img.shields.io/badge/instagram-090909?style=social&logo=instagram)](https://www.instagram.com/postyronium_boy.l10bimi/)
+[![badge](https://img.shields.io/badge/telegram-090909?style=social&logo=telegram)](https://t.me/Flashback_Jesus_BOT)
+[![badge](https://img.shields.io/badge/leetcode-090909?style=social&logo=leetcode)](https://leetcode.com/iliaman/)
 
 
 
