@@ -26,5 +26,9 @@
 
 
 # CHILL & RELAX <img src="https://cdn-icons-png.flaticon.com/512/2394/2394825.png" width="48"> 
-<a target="_blank" href="http://www.youtube.com/watch?v=5qap5aO4i9A&amp;ab_channel=LofiGirl"><img src="https://camo.githubusercontent.com/eb30cbef69e32fad2ecf446ec3ec9961f9ae10fb02075bdc60b05962976fa814/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f4a3350466a526d374c423238772f67697068792e6769663f6369643d373930623736313132333961666431383039343831396261376330373763613666363030373462633137316235313638267269643d67697068792e6769662663743d67" alt="lofi" data-canonical-src="https://media2.giphy.com/media/J3PFjRm7LB28w/giphy.gif?cid=790b7611239afd18094819ba7c077ca6f60074bc171b5168&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%;"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iliaman1/iliaman1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iliaman1/iliaman1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iliaman1/iliaman1/output/github-contribution-grid-snake.svg">
+</picture>
 
