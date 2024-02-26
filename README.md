@@ -29,14 +29,12 @@
 </table>
 
 
-
 # My contacts <img src="https://cdn-icons-png.flaticon.com/512/1998/1998087.png" width="48">
 ![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=linkedin)
-[![badge](https://img.shields.io/badge/vk-090909?style=social&logo=vk)](https://vk.com/sexyalni_samec)
-[![badge](https://img.shields.io/badge/instagram-090909?style=social&logo=instagram)](https://www.instagram.com/postyronium_boy.l10bimi/)
 [![badge](https://img.shields.io/badge/telegram-090909?style=social&logo=telegram)](https://t.me/Flashback_Jesus_BOT)
+[![badge](https://img.shields.io/badge/vk-090909?style=social&logo=vk)](https://vk.com/sexyalni_samec)
 [![badge](https://img.shields.io/badge/leetcode-090909?style=social&logo=leetcode)](https://leetcode.com/iliaman/)
-
+[![badge](https://img.shields.io/badge/instagram-090909?style=social&logo=instagram)](https://www.instagram.com/postyronium_boy.l10bimi/)
 
 
 # CHILL & RELAX <img src="https://cdn-icons-png.flaticon.com/512/2394/2394825.png" width="48"> 
@@ -45,4 +43,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iliaman1/iliaman1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iliaman1/iliaman1/output/github-contribution-grid-snake.svg">
 </picture>
-
