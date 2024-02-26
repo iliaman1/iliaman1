@@ -7,14 +7,16 @@
 <!--<img src="https://raw.githubusercontent.com/iliaman1/iliaman1/output/github-contribution-grid-snake.svg" /> -->
 
 # Languages and Tools <img src="https://cdn-icons-png.flaticon.com/512/1055/1055683.png" width="48">
-[![alt-текст](https://camo.githubusercontent.com/01e3cdeea168457e352691bdf62efd0f500d365309914d07c708ea4eb765a437/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333337373641422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465 "Python")](https://www.python.org/)
-[![alt-текст](https://camo.githubusercontent.com/5b0954917b2bba4427bcd394916a0d4835c54a69f3f8e9e6f8b1b475032eb894/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f666c61736b2532302d2532333030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465 "Flask")](https://flask.palletsprojects.com/en/2.0.x/#)
-[![alt-текст](https://camo.githubusercontent.com/c9d0db0a5c179f2fcf0a460d9b7e75ef516bfdc1e1681bc61f43c9b435bc96a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646a616e676f2532302d2532333039324532302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465 "DJango")](https://www.djangoproject.com/)
-[![alt-текст](https://camo.githubusercontent.com/20f8a4f1e9c33b1cffb1968cda82ced5b6cd5d6c5a09865eab911724b1917d76/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465 "SQL")](https://ru.wikipedia.org/wiki/SQL)
-[![alt-текст](https://camo.githubusercontent.com/12a3b782bffea8ddf42250fb195e99f72586e0f965f0d682b49b4387cce846a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d2532334643322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465 "Linux")](https://www.linux.org/)
-[![alt-текст](https://camo.githubusercontent.com/26a74eef5d23c6d35e75264deb87dab05c7139680356b02f6e0b00f1a494d9a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d2532333234393645442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465 "Docker")](https://www.docker.com/)
-[![alt-текст](https://camo.githubusercontent.com/5d3b0191832237fcbfc6d4497524e8bb547c6bfc9eafb738d5205c629d202067/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465 "HTML")](https://developer.mozilla.org/ru/docs/Web/HTML)
-[![alt-текст](https://camo.githubusercontent.com/b430f12ce9355be8c36aecb45e5d77311d156b88b35e4a180df1eac8952e1c3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b "JS")](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/#)
+[![DJango](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/mysql-3776AB.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-%23FC2.svg?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/ru/docs/Web/HTML)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 
 # My contacts <img src="https://cdn-icons-png.flaticon.com/512/1998/1998087.png" width="48">
 ![badge](https://img.shields.io/badge/linkedIN-090909?style=social&logo=linkedin)
