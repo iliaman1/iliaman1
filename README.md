@@ -1,6 +1,6 @@
 # Hello there <img src="https://media0.giphy.com/media/g83QHvfoVrDxXbKFfW/giphy.gif?cid=790b76111998e684285edd21bd803a031b6a1ced917a645f&rid=giphy.gif&ct=s" width="48"> <img src="https://media2.giphy.com/media/LBRPBfYRlzIz0sHUDl/giphy.gif?cid=790b761182eb945738ae99f0f1e7d5ea1ac811048cc44494&rid=giphy.gif&ct=s" width="48">
 
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=iliaman&theme=dark)](https://leetcode.com/iliaman/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/iliaman?theme=dark&font=Kodchasan)](https://leetcode.com/iliaman/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliaman1&show_icons=true&theme=dracula)](https://media3.giphy.com/media/vFKqnCdLPNOKc/giphy.gif?cid=790b7611101554a0210164926928e5efc3499efe90eacaef&rid=giphy.gif&ct=g)
 
 
